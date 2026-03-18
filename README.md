@@ -2,14 +2,16 @@
 
 This project is currently under development.
 
-It is a Python-based tool designed to analyze code, detect bugs, and suggest performance improvements.
+## Description
+AI Code Review Tool is a Python-based application designed to analyze source code, detect bugs, and suggest performance improvements. The goal of this project is to automate the code review process and enhance code quality.
 
 ## Features (Planned)
-- Code analysis
-- Bug detection
-- Performance optimization
+- Automated code analysis  
+- Bug detection  
+- Performance optimization suggestions  
 
 ## Tech Stack
-- Python
+- Python  
 
-(Project will be updated soon)
+## Status
+Work in progress. The project will be updated with full implementation soon.
